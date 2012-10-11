@@ -302,8 +302,8 @@
   <project path="vendor/tmobile/products/themes" name="android_vendor_tmobile_products_themes" remote="cm" revision="jellybean" />
 
 <!-- n7000 -->
-  <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="ps" revision="jb" />
-  <project path="device/samsung/n7000" name="android_device_samsung_n7000" remote="ps" revision="jb" />
+  <project path="device/samsung/galaxys2-common" name="android_device_samsung_galaxys2-common" remote="cm" revision="jellybean" />
+  <project path="device/samsung/n7000" name="android_device_samsung_n7000" remote="cm" revision="jellybean" />
   <project path="hardware/samsung" name="android_hardware_samsung" remote="cm" revision="jellybean" />
   <project path="kernel/samsung/smdk4210" name="android_kernel_samsung_smdk4210" remote="cm" revision="jellybean" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="ls" revision="jb" />
